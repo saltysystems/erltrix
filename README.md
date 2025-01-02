@@ -11,6 +11,8 @@ erltrix
 
 Erlang Matrix Lib
 
+This is a work-in-progress prototype. Do not use it anywhere near production. It _will_ eat your pets, start a fire, etc. 
+
 Build
 -----
 
